@@ -19,6 +19,9 @@
  Bu projede 'session' kullanılmış olup giriş yapanların bilgileri kaydediliyor. Çıkış yap butonuna tıklandığında ise bu bilgiler siliniyor.
  
  
+ 'kuafor' veri tabanı içerisindeki "kuafor" tablosu otomatik olarak doldurulmuştur. Giren kullanıcı bu bilgilere göre randevu alacaktır.
+ 
+ 
  
                                                                        KULLANIM
                                                                                  
