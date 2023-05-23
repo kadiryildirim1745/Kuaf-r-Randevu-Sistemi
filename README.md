@@ -1,7 +1,10 @@
 # Kuafor Randevu Sistemi
  Kuafor Randevu Sistemi. PHP-SQL Proje Ödevi
+ 
  Sitenin Linki: http://mywebsitesql.42web.io/
+ 
  Sitenin YouTube Tanıtım Videosu:https://youtu.be/Dg4280k8Mb0
+ 
  
  Bu projemizde kuaför randevu sistemi oluşturup sisteme üye olan kullanıcının randevu alarak onu görüntüleme, silme ve güncelleme hakkı tanıyarak veri tabanına kaydedebilmesini sağlıyoruz.
  
@@ -17,7 +20,7 @@
  
  
  
-                                                                                 KULLANIM
+                                                                       KULLANIM
                                                                                  
                                                                                  
  BU PROJEYİ KULLANABİLMEK İÇİN ÖNCELİKLE PHPMYADMİN'DEN "kuafor" İSİMLİ BİR VERİ TABANI OLUŞTURUNUZ. DAHA SONRA GİTHUB'A YÜKLEDİĞİMİZ "kuafor.sql" DOSYASINI İÇE AKTAR DİYEREK TABLONUZA KAYDEDİNİZ.
