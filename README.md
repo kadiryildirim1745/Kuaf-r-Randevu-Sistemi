@@ -23,7 +23,7 @@
  
  
  
-                                                                       KULLANIM
+                                                       KULLANIM
                                                                                  
                                                                                  
  BU PROJEYİ KULLANABİLMEK İÇİN ÖNCELİKLE PHPMYADMİN'DEN "kuafor" İSİMLİ BİR VERİ TABANI OLUŞTURUNUZ. DAHA SONRA GİTHUB'A YÜKLEDİĞİMİZ "kuafor.sql" DOSYASINI İÇE AKTAR DİYEREK TABLONUZA KAYDEDİNİZ.
